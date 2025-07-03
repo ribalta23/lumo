@@ -11,14 +11,6 @@ const router = createRouter({
         title: 'Inicio'
       }
     },
-    {
-      path: '/videocall',
-      name: 'videocall',
-      component: () => import('../views/VideoChat.vue'),
-      meta: {
-        title: 'Videollamada'
-      }
-    }
   ],
 })
 

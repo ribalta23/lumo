@@ -1,4 +1,4 @@
-# ![Lumo Logo](./public/lumo-logo.png)
+# ![Lumo Logo](https://aleixribalta.com/projects/lumo.webp)
 
 **Lumo** is a modern platform designed for online tutoring and academic support. Built with **FastAPI** (Python) on the backend and **Vue 3 + TailwindCSS** on the frontend, Lumo aims to be fast, lightweight, and user-friendly — ideal for students and tutors alike.
 
